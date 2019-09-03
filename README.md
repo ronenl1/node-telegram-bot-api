@@ -83,7 +83,7 @@ Some things built using this library that might interest you:
 * [node-telegram-keyboard-wrapper](https://github.com/alexandercerutti/node-telegram-keyboard-wrapper): A wrapper to improve `reply_markup` structures creation in an easy way (supports Inline Keyboards, Reply Keyboard, Remove Keyboard and Force Reply)
 * [node-telegram-operation-manager](https://github.com/alexandercerutti/node-telegram-operation-manager): A utility to manage replies flows and commands. Let also create custom queues for your own bot.
 
-## License
+## License.
 
 **The MIT License (MIT)**
 
