@@ -15,7 +15,7 @@ Node.js module to interact with official [Telegram Bot API](https://core.telegra
 npm install --save node-telegram-bot-api
 ```
 
-## Usage
+## Usage.
 
 ```js
 const TelegramBot = require('node-telegram-bot-api');
